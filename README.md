@@ -19,6 +19,8 @@ TBC
 
 ## How to remove used branches locally
 
+Type the following in the Terminal.
+
 ### Remove from local
 
 git branch -d [branch_name]
