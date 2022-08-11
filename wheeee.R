@@ -1,0 +1,7 @@
+wheeeeee <- function() {
+  
+  browseURL("https://www.google.co.uk/search?q=do+a+barrell+roll&source=hp&ei=ARD1YtmeI8OUhbIPrfW6gAs&iflsig=AJiK0e8AAAAAYvUeEWDabaewwiFHVZDRANvDb3915xxS&ved=0ahUKEwiZo_Db_b75AhVDSkEAHa26DrAQ4dUDCAk&uact=5&oq=do+a+barrell+roll&gs_lcp=Cgdnd3Mtd2l6EAMyBAguEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBwgAELEDEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAo6DggAEI8BEOoCEIwDEOUCOg4ILhCPARDqAhCMAxDlAjoLCAAQgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBENEDOg4ILhCABBCxAxDHARDRAzoLCC4QsQMQgwEQ1AI6DgguEIAEELEDEIMBENQCOgsILhCABBCxAxCDAToICAAQgAQQsQM6CAguELEDEIMBOgUILhCABDoFCAAQgAQ6CAgAELEDEIMBUJgDWIcZYPQaaAFwAHgAgAGnAogBlROSAQU2LjYuNZgBAKABAbABCg&sclient=gws-wiz")
+}
+
+
+try_not_to_be_sick()
