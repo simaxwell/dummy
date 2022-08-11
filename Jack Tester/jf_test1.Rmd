@@ -12,4 +12,3 @@ band_lineup<-function(x){
   x
 }
 ```
-
