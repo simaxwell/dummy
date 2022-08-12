@@ -4,4 +4,4 @@ wheeeeee <- function() {
 }
 
 
-try_not_to_be_sick()
+wheeeeee()
