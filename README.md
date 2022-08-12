@@ -13,9 +13,13 @@ Add the following code to the `add_score.R` function:
   }
 ```
 
-## Task 2: ...
+## Task 2: The "diddly bow"
 
-TBC
+I (Si) own a "one-string diddly bow" (think piece of wood with a frets, some wire and a Colman's mustard tin). Add this to Jack's `band_lineup` function.
+
+## Task 3: edit .gitignore
+
+Exclude all html outputs (i.e., Rmd outputs) from being pushed to GitHub.
 
 ## How to remove used branches locally
 
