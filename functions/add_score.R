@@ -4,7 +4,7 @@ add_score <- function(x) {
     stop("x needs to be a numeric, silly.", call. = FALSE)
     
   }
-  n <- x + 20
+  n <- x + 200
   
   # Print n:
   return(n)
