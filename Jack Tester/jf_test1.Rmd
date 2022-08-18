@@ -5,10 +5,10 @@ output: html_document
 
 ```{r setup, include=FALSE}
 band_lineup<-function(x){
-  x<-if(x=="Si") {sample(c("Guitar","Bass","Singer","Drums"),1)} else 
+  x<-if(x=="Si") {sample(c("Guitar","Bass","Diddly Bow","Drums"),1)} else 
     if(x=="Dan") {sample(c("Guitar","Bass","Singer","Drums"),1)} else
     if(x=="Jack") {sample(c("Guitar","Bass","Singer","Drums"),1)} else
-    if(x=="Toni") {"Triangle"} else "Rhythm Guitar"
+    if(x=="Toni") {sample(c("Triangle","Kazoo","Recorder"))} else "Rhythm Guitar"
   x
 }
 ```
